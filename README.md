@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am **Adeyinka Balogun,** a *QA Engineer* transitioning into __Cloud Engineering__.
+
 <!--
 **Adxyinka/Adxyinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
